@@ -1,0 +1,6 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "http[s]://domain.com",
+    "publishingScope": "None",
+    "authenticationType": "Forms"
+}
